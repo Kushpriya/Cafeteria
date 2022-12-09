@@ -1,0 +1,38 @@
+D:\samira\CMS\bin\Debug\net6.0-windows\CMS.exe
+D:\samira\CMS\bin\Debug\net6.0-windows\CMS.deps.json
+D:\samira\CMS\bin\Debug\net6.0-windows\CMS.runtimeconfig.json
+D:\samira\CMS\bin\Debug\net6.0-windows\CMS.dll
+D:\samira\CMS\bin\Debug\net6.0-windows\ref\CMS.dll
+D:\samira\CMS\bin\Debug\net6.0-windows\CMS.pdb
+D:\samira\CMS\obj\Debug\net6.0-windows\CMS.csproj.AssemblyReference.cache
+D:\samira\CMS\obj\Debug\net6.0-windows\CMS.Form1.resources
+D:\samira\CMS\obj\Debug\net6.0-windows\CMS.csproj.GenerateResource.cache
+D:\samira\CMS\obj\Debug\net6.0-windows\CMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\samira\CMS\obj\Debug\net6.0-windows\CMS.AssemblyInfoInputs.cache
+D:\samira\CMS\obj\Debug\net6.0-windows\CMS.AssemblyInfo.cs
+D:\samira\CMS\obj\Debug\net6.0-windows\CMS.csproj.CoreCompileInputs.cache
+D:\samira\CMS\obj\Debug\net6.0-windows\CMS.dll
+D:\samira\CMS\obj\Debug\net6.0-windows\ref\CMS.dll
+D:\samira\CMS\obj\Debug\net6.0-windows\CMS.pdb
+D:\samira\CMS\obj\Debug\net6.0-windows\CMS.genruntimeconfig.cache
+D:\samira\CMS\obj\Debug\net6.0-windows\CMS.Properties.Resources.resources
+D:\samira\CMS\obj\Debug\net6.0-windows\CMS.new.resources
+C:\Users\priya\OneDrive\Desktop\New folder\CMS\bin\Debug\net6.0-windows\CMS.exe
+C:\Users\priya\OneDrive\Desktop\New folder\CMS\bin\Debug\net6.0-windows\CMS.deps.json
+C:\Users\priya\OneDrive\Desktop\New folder\CMS\bin\Debug\net6.0-windows\CMS.runtimeconfig.json
+C:\Users\priya\OneDrive\Desktop\New folder\CMS\bin\Debug\net6.0-windows\CMS.dll
+C:\Users\priya\OneDrive\Desktop\New folder\CMS\bin\Debug\net6.0-windows\CMS.pdb
+C:\Users\priya\OneDrive\Desktop\New folder\CMS\obj\Debug\net6.0-windows\CMS.csproj.AssemblyReference.cache
+C:\Users\priya\OneDrive\Desktop\New folder\CMS\obj\Debug\net6.0-windows\CMS.Form1.resources
+C:\Users\priya\OneDrive\Desktop\New folder\CMS\obj\Debug\net6.0-windows\CMS.new.resources
+C:\Users\priya\OneDrive\Desktop\New folder\CMS\obj\Debug\net6.0-windows\CMS.Properties.Resources.resources
+C:\Users\priya\OneDrive\Desktop\New folder\CMS\obj\Debug\net6.0-windows\CMS.csproj.GenerateResource.cache
+C:\Users\priya\OneDrive\Desktop\New folder\CMS\obj\Debug\net6.0-windows\CMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priya\OneDrive\Desktop\New folder\CMS\obj\Debug\net6.0-windows\CMS.AssemblyInfoInputs.cache
+C:\Users\priya\OneDrive\Desktop\New folder\CMS\obj\Debug\net6.0-windows\CMS.AssemblyInfo.cs
+C:\Users\priya\OneDrive\Desktop\New folder\CMS\obj\Debug\net6.0-windows\CMS.csproj.CoreCompileInputs.cache
+C:\Users\priya\OneDrive\Desktop\New folder\CMS\obj\Debug\net6.0-windows\CMS.dll
+C:\Users\priya\OneDrive\Desktop\New folder\CMS\obj\Debug\net6.0-windows\refint\CMS.dll
+C:\Users\priya\OneDrive\Desktop\New folder\CMS\obj\Debug\net6.0-windows\CMS.pdb
+C:\Users\priya\OneDrive\Desktop\New folder\CMS\obj\Debug\net6.0-windows\CMS.genruntimeconfig.cache
+C:\Users\priya\OneDrive\Desktop\New folder\CMS\obj\Debug\net6.0-windows\ref\CMS.dll
